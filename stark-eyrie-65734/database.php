@@ -1,10 +1,10 @@
 <?php
 class Database 
 {
-	private static $dbName = 'inventory' ; 
-	private static $dbHost = 'localhost' ;
-	private static $dbUsername = 'root';
-	private static $dbUserPassword = '';
+	private static $dbName = 'sql6113101' ; 
+	private static $dbHost = 'sql6.freemysqlhosting.net' ;
+	private static $dbUsername = 'sql6113101';
+	private static $dbUserPassword = 'X52d8EYILc';
 	
 	private static $cont  = null;
 	
